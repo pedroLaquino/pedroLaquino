@@ -2,9 +2,9 @@
 
 🎯 **Analytics Engineer | Data Analyst | BI Specialist**
 
-💻 Trabalho com **SQL | Python | Power BI | dbt | Airflow | PostgreSQL**  
-🌱 Explorando **engenharia de dados** e **automação de pipelines**  
-🚀 Apaixonado por **otimizar processos** e transformar dados em decisões
+💻 Trabalho com **SQL | Python | Power BI | dbt | Airflow | PostgreSQL | Spark | Pandas | Selenium**  
+🌱 Explorando **engenharia e análise de dados**  
+🚀 Apaixonado por **criação de pipelines** e transformar dados em decisões
 
 ---
 
@@ -24,13 +24,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroLaquino&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroLaquino&layout=compact&theme=radical"/>
 </p>
-
----
-
-## 🛠 Projetos em Destaque
-- 🚚 [Dashboard Logístico com Power BI](link)
-- 🗄️ [ETL em Python para PostgreSQL](link)
-- 📊 [Indicadores SGI - Sistema de Gestão Integrada](link)
 
 ---
 

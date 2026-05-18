@@ -21,8 +21,8 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroLaquino&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroLaquino&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroLaquino&show_icons=true"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroLaquino&layout=compact"/>
 </p>
 
 ---

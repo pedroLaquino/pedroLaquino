@@ -19,14 +19,6 @@
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroLaquino&show_icons=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroLaquino&layout=compact"/>
-</p>
-
----
-
 ## 🌍 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrooaquinoo/)
 [![Portfolio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=githubpages&logoColor=white)](https://pedroaquinoportfolio.abacusai.app/)
